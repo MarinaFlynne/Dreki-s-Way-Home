@@ -1,4 +1,4 @@
-# Cave-Game-Project
+# Dreki's Way Home
 Video game I created with a group of three other people. The game was made in Unity using C#
 
 This is a short platforming game called "Dreki's Way Home" It was worked on from October 2020 to November 2020.
